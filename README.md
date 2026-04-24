@@ -81,6 +81,9 @@ const tasfin = {
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| 📊 [**FinTrack Dashboard**](https://github.com/TasfinMahmud/fintrack-dashboard) | AI-powered financial tracking with real-time analytics | Chart.js, JS, CSS |
+| 🧠 [**AI Sentiment Analyzer**](https://github.com/TasfinMahmud/ai-sentiment-analyzer) | NLP sentiment analysis with emotion detection | JS, Chart.js, NLP |
+| 🛒 [**E-Commerce Platform**](https://github.com/TasfinMahmud/ecommerce-platform) | Full-stack store with cart, search & checkout | JS, CSS, Responsive |
 | 🧮 [**Simplex Solver**](https://github.com/TasfinMahmud/simplex-solver) | Interactive Simplex Method Tableau Generator | HTML, CSS, JS |
 | 🤖 [**VibeBot**](https://github.com/TasfinMahmud/vibebot) | AI-powered Discord bot with Gemini integration | Node.js, Discord.js |
 | 🌐 [**Portfolio**](https://tasfinmahmud.github.io) | Personal portfolio with particle effects & animations | HTML, CSS, JS |
