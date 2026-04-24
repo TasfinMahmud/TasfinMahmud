@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+there!+I'm+Tasfin+Mahmud+%F0%9F%91%8B;MERN+Developer+%7C+AI+Fintech+Researcher;Open+Source+Contributor+%F0%9F%8C%8D)](https://tasfinmahmud.github.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Hey+there!+I'm+Tasfin+Mahmud+👋;MERN+Developer+|+AI+Fintech+Researcher;Open+Source+Contributor+🌍;Building+Cool+Stuff+with+Code+🚀)](https://tasfinmahmud.github.io)
 
 <p>
   <a href="https://tasfinmahmud.github.io"><img src="https://img.shields.io/badge/Portfolio-tasfinmahmud.github.io-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
