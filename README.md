@@ -103,9 +103,9 @@ const tasfin = {
 
 <div align="center">
 
-### 🐍 Contribution Graph
+### 📈 Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/TasfinMahmud/TasfinMahmud/output/github-snake-dark.svg)
+[![Tasfin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TasfinMahmud&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/TasfinMahmud)
 
 ---
 
