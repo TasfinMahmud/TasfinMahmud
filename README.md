@@ -30,14 +30,14 @@ const tasfin = {
     💼: ["MERN Stack Developer", "AI Fintech Researcher"],
     🎯: "Open Source & GSoC 2027",
     🧠: ["Web Dev", "Machine Learning", "Fintech", "Math"],
-    ⚡: "I debug with console.log and I'm not ashamed 😄"
+    ⚡: "I debug with console.log — no shame in the game"
 };
 ```
 
 - 🔭 Currently building **AI-powered fintech applications**
 - 🌱 Learning **System Design**, **DevOps**, and **Cloud Architecture**
 - 🎯 **Goal:** Contributing to open source & getting selected for **GSoC 2027**
-- 🧮 Love applying **mathematics** to real-world problems
+- 🧮 Applying **mathematics** to solve real-world engineering problems
 - 💬 Ask me about **React, Node.js, MongoDB, Express, Python**
 - 📫 Reach me at **tasfinmahmud1@gmail.com**
 
@@ -222,7 +222,7 @@ Personal portfolio featuring particle animations, glassmorphism design, interact
 <!-- Footer -->
 <div align="center">
 
-### 🤝 Let's Connect & Build Together!
+### Let's Connect
 
 <p>
 I'm always open to collaborating on interesting projects, discussing new tech, or just having a chat about code. Feel free to reach out!
