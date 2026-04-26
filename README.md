@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=180&section=header&text=Tasfin%20Mahmud&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=MERN%20Developer%20|%20AI%20Fintech%20Researcher%20|%20GSoC%20'27%20Aspirant&descSize=16&descAlignY=52" />
 
 <!-- Dynamic typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Building+AI-Powered+Fintech+Applications+🚀;Full+Stack+MERN+Developer+💻;Open+Source+Contributor+%26+Math+Enthusiast+🧮;Always+Learning%2C+Always+Shipping+⚡)](https://tasfinmahmud.github.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Building+AI-Powered+Fintech+Applications;Full+Stack+MERN+Developer;Open+Source+Contributor+%7C+GSoC+'27;Shipping+Code+That+Matters)](https://tasfinmahmud.github.io)
 
 <!-- Social Badges -->
 <p>
@@ -19,9 +19,9 @@
 </div>
 
 <!-- About Me Section -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## About Me
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
 
 ```js
 const tasfin = {
@@ -176,9 +176,9 @@ AI-powered Discord bot with Google Gemini integration. Provides intelligent Beng
 <td width="50%">
 
 ### 🌐 [Portfolio Website](https://tasfinmahmud.github.io)
-Personal portfolio featuring particle animations, glassmorphism design, interactive project cards, and smooth scrolling.
+React portfolio with Framer Motion animations, Three.js visuals, AI chatbot, and glassmorphism design.
 
-`HTML5` `CSS3` `JavaScript` `Particles.js`
+`React` `Vite` `Framer Motion` `Three.js`
 
 [🔗 Live Site](https://tasfinmahmud.github.io) • [📂 Source](https://github.com/TasfinMahmud/tasfinmahmud.github.io)
 
@@ -225,7 +225,7 @@ Personal portfolio featuring particle animations, glassmorphism design, interact
 ### Let's Connect
 
 <p>
-I'm always open to collaborating on interesting projects, discussing new tech, or just having a chat about code. Feel free to reach out!
+Open to collaborating on open source, fintech, or AI projects. Hit me up.
 </p>
 
 <a href="https://tasfinmahmud.github.io"><img src="https://img.shields.io/badge/Check_Out_My-Portfolio-A855F7?style=for-the-badge&logo=safari&logoColor=white" /></a>
