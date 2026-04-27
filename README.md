@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=180&section=header&text=Tasfin%20Mahmud&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=MERN%20Developer%20|%20AI%20Fintech%20Researcher%20|%20GSoC%20'27%20Aspirant&descSize=16&descAlignY=52" />
 
 <!-- Dynamic typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Building+AI-Powered+Fintech+Applications;Full+Stack+MERN+Developer;Open+Source+Contributor+%7C+GSoC+'27;Shipping+Code+That+Matters)](https://tasfinmahmud.github.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Building+AI-Powered+Fintech+Applications;Full+Stack+MERN+Developer;Open+Source+Contributor+%7C+GSoC+'27;Shipping+Code+That+Matters;React+%7C+Node.js+%7C+TypeScript+%7C+MongoDB)](https://tasfinmahmud.github.io)
 
 <!-- Social Badges -->
 <p>
@@ -15,13 +15,19 @@
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=TasfinMahmud&style=flat-square&color=A855F7&label=Profile+Views" alt="Profile Views" />
+&nbsp;
+<a href="https://github.com/TasfinMahmud?tab=followers"><img src="https://img.shields.io/github/followers/TasfinMahmud?label=Followers&style=flat-square&color=A855F7&labelColor=1a1a2e" /></a>
+&nbsp;
+<a href="https://github.com/TasfinMahmud?tab=repositories"><img src="https://img.shields.io/badge/Repos-8-A855F7?style=flat-square&labelColor=1a1a2e" /></a>
 
 </div>
 
+---
+
 <!-- About Me Section -->
-## About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```js
 const tasfin = {
@@ -40,6 +46,7 @@ const tasfin = {
 - 🧮 Applying **mathematics** to solve real-world engineering problems
 - 💬 Ask me about **React, Node.js, MongoDB, Express, Python**
 - 📫 Reach me at **tasfinmahmud1@gmail.com**
+- ⭐ **Star my repos if you find them useful — it means a lot!**
 
 <br clear="both" />
 
@@ -102,12 +109,27 @@ const tasfin = {
 </div>
 
 <div align="center">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TasfinMahmud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" />
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TasfinMahmud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8" />
 </div>
 
 <!-- GitHub Trophies -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TasfinMahmud&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" />
+</div>
+
+---
+
+<!-- Snake Animation -->
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TasfinMahmud/TasfinMahmud/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TasfinMahmud/TasfinMahmud/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/TasfinMahmud/TasfinMahmud/output/github-snake-dark.svg" />
+</picture>
+
 </div>
 
 ---
@@ -219,18 +241,33 @@ React portfolio with Framer Motion animations, Three.js visuals, AI chatbot, and
 
 ---
 
+<!-- Random Dev Quote -->
+## 💭 Dev Quote of the Day
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%2C+solve+the+problem.+Then%2C+write+the+code.&author=John+Johnson)](https://github.com/TasfinMahmud)
+
+</div>
+
+---
+
 <!-- Footer -->
 <div align="center">
 
-### Let's Connect
+### 🤝 Let's Connect & Collaborate
 
 <p>
-Open to collaborating on open source, fintech, or AI projects. Hit me up.
+Open to collaborating on <b>open source</b>, <b>fintech</b>, or <b>AI projects</b>. Let's build something amazing together!
 </p>
 
 <a href="https://tasfinmahmud.github.io"><img src="https://img.shields.io/badge/Check_Out_My-Portfolio-A855F7?style=for-the-badge&logo=safari&logoColor=white" /></a>
 
 <br><br>
+
+**If you like my projects, consider giving them a ⭐!**
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=100&section=footer" width="100%" />
 
