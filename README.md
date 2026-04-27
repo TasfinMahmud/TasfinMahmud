@@ -119,16 +119,15 @@ const tasfin = {
 
 ---
 
-<!-- Snake Animation -->
-## 🐍 Contribution Snake
+<!-- Open Source & Collaboration -->
+## 🌍 Open Source & Collaboration
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TasfinMahmud/TasfinMahmud/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TasfinMahmud/TasfinMahmud/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/TasfinMahmud/TasfinMahmud/output/github-snake-dark.svg" />
-</picture>
+> *"Talk is cheap. Show me the code."* — Linus Torvalds
+
+**Currently seeking open source projects to contribute to — especially in the MERN/TypeScript ecosystem.**
+**If you're a maintainer, I'd love to help. Let's connect!**
 
 </div>
 
