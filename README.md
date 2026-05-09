@@ -120,16 +120,29 @@ const tasfin = {
 ---
 
 <!-- Open Source & Collaboration -->
-## 🌍 Open Source & Collaboration
+## 🌍 Open Source Contributions
 
 <div align="center">
 
 > *"Talk is cheap. Show me the code."* — Linus Torvalds
 
-**Currently seeking open source projects to contribute to — especially in the MERN/TypeScript ecosystem.**
-**If you're a maintainer, I'd love to help. Let's connect!**
-
 </div>
+
+### 🚀 [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) — Active Contributor
+
+Contributing to **Rocket.Chat**, the leading open-source communications platform (40k+ ⭐). Key contributions include:
+
+| PR | Area | Description |
+|----|------|-------------|
+| [#40449](https://github.com/RocketChat/Rocket.Chat/pull/40449) | 🔒 Security | Restored Issue Tracker Links with URL scheme validation |
+| [#40451](https://github.com/RocketChat/Rocket.Chat/pull/40451) | 🧹 Refactor | Simplified `getNodeIconType` utility with direct returns |
+| [#40426](https://github.com/RocketChat/Rocket.Chat/pull/40426) | ✨ Feature | Nested markdown list support in message parser |
+| [#40374](https://github.com/RocketChat/Rocket.Chat/pull/40374) | ⚡ Perf | Translation memory cache to reduce redundant API calls |
+| [#40353](https://github.com/RocketChat/Rocket.Chat/pull/40353) | ⚡ Perf | `useInfiniteQuery` to prevent UI freeze in message tabs |
+| [#40399](https://github.com/RocketChat/Rocket.Chat/pull/40399) | 🐛 Fix | Preserve aspect ratio for URL-embedded images |
+| [#40425](https://github.com/RocketChat/Rocket.Chat/pull/40425) | 🐛 Fix | Trim whitespace from IP whitelist entries |
+| [#40424](https://github.com/RocketChat/Rocket.Chat/pull/40424) | 🐛 Fix | Replace fragile regex in `isRelativeURL` validation |
+| [#40363](https://github.com/RocketChat/Rocket.Chat/pull/40363) | 🐛 Fix | Fix truncation of Livechat transfer comments |
 
 ---
 
