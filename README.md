@@ -144,6 +144,13 @@ Contributing to **Rocket.Chat**, the leading open-source communications platform
 | [#40424](https://github.com/RocketChat/Rocket.Chat/pull/40424) | 🐛 Fix | Replace fragile regex in `isRelativeURL` validation |
 | [#40363](https://github.com/RocketChat/Rocket.Chat/pull/40363) | 🐛 Fix | Fix truncation of Livechat transfer comments |
 
+### 🌍 Other Organizations
+
+| Org | PR | Area | Description |
+|-----|----|------|-------------|
+| **FOSSASIA** | [#3441](https://github.com/fossasia/eventyay/pull/3441) | 🐛 Fix | Resolved duplicate imports & bare exceptions in `eventyay` |
+| **Joplin** | In Progress | 🐛 Fix | Investigating React Native UI bug on mobile plugins screen (#15315) |
+
 ---
 
 <!-- Featured Projects Section -->
@@ -232,6 +239,7 @@ React portfolio with Framer Motion animations, Three.js visuals, AI chatbot, and
 | Goal | Status |
 |------|--------|
 | 🌟 Contribute to **5+ open source projects** | 🔄 In Progress |
+| 🔬 Publish **Pre-Thesis II GNN-Bandit Research** | 🔄 In Progress |
 | 📝 Write **technical blog posts** on dev.to | 📋 Planned |
 | 🏗️ Build **3 production-ready full-stack apps** | ✅ Completed |
 | 🎓 Complete **ML/AI specialization** | 🔄 In Progress |
