@@ -1,9 +1,7 @@
 <div align="center">
 
-# Tasfin Mahmud
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2500&pause=999999&color=A855F7&center=true&vCenter=true&repeat=false&width=400&height=45&lines=Tasfin+Mahmud)](https://tasfinmahmud.github.io)
 
-**CS & Mathematics · BRAC University, Dhaka**
-**AI/ML Researcher · Full-Stack Developer · Open Source Contributor**
 
 <p>
   <a href="https://tasfinmahmud.github.io"><img src="https://img.shields.io/badge/Portfolio-tasfinmahmud.github.io-A855F7?style=flat-square&logo=google-chrome&logoColor=white" /></a>&nbsp;
