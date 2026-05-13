@@ -1,138 +1,36 @@
 <div align="center">
 
-<!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=180&section=header&text=Tasfin%20Mahmud&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=CS%20Researcher%20|%20GNN%20%26%20Causal%20ML%20|%20Full-Stack%20Developer%20|%20GSoC%20'27&descSize=16&descAlignY=52" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Tasfin+Mahmud)](https://tasfinmahmud.github.io)
 
-<!-- Dynamic typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Tasfin+Mahmud+%7C+GNN+%26+Causal+ML+Researcher;Full+Stack+Developer+%7C+Open+Source+Contributor;Graph+Neural+Networks+%7C+Causal+Inference+%7C+RL;GSoC+2027+Aspirant+%7C+BRAC+University;React+%7C+Node.js+%7C+Python+%7C+PyTorch)](https://tasfinmahmud.github.io)
+**CS & Mathematics · BRAC University, Dhaka**
+**AI/ML Researcher · Full-Stack Developer · Open Source Contributor**
 
-<!-- Social Badges -->
 <p>
-  <a href="https://tasfinmahmud.github.io"><img src="https://img.shields.io/badge/Portfolio-tasfinmahmud.github.io-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/tasfin-mahmud-737a56329"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/tasfinmahmud1"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:tasfinmahmud1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://tasfinmahmud.github.io"><img src="https://img.shields.io/badge/Portfolio-tasfinmahmud.github.io-A855F7?style=flat-square&logo=google-chrome&logoColor=white" /></a>&nbsp;
+  <a href="https://linkedin.com/in/tasfin-mahmud-737a56329"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://x.com/tasfinmahmud1"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>&nbsp;
+  <a href="mailto:tasfinmahmud1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=TasfinMahmud&style=flat-square&color=A855F7&label=Profile+Views" alt="Profile Views" />
-&nbsp;
-<a href="https://github.com/TasfinMahmud?tab=followers"><img src="https://img.shields.io/github/followers/TasfinMahmud?label=Followers&style=flat-square&color=A855F7&labelColor=1a1a2e" /></a>
-&nbsp;
-<a href="https://github.com/TasfinMahmud?tab=repositories"><img src="https://img.shields.io/badge/Repos-8-A855F7?style=flat-square&labelColor=1a1a2e" /></a>
-
 </div>
 
 ---
 
-<!-- About Me Section -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Tasfin Mahmud
+## About
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+I'm an undergraduate CS researcher at BRAC University with a minor in Mathematics, focused on **Graph Neural Networks**, **Causal Inference**, and **Reinforcement Learning**. My current research investigates GNN architectures for recommendation systems under causal and bandit feedback settings.
 
-```js
-const tasfinMahmud = {
-    🎓: "B.Sc. Computer Science | Minor: Mathematics",
-    🏫: "BRAC University, Dhaka",
-    💼: ["CS Researcher", "Full-Stack Developer"],
-    🔬: ["Graph Neural Networks", "Causal Inference", "Reinforcement Learning"],
-    🎯: "Open Source & GSoC 2027",
-    🧠: ["GNNs", "Causal ML", "RL", "Web Dev", "Math"],
-    ⚡: "I debug with console.log — no shame in the game"
-};
-```
+I also build full-stack applications and actively contribute to open-source projects — working toward **Google Summer of Code 2027**.
 
-- 🔭 Currently researching **GNN architectures for recommendation systems** (Pre-Thesis II)
-- 🧩 Working on **Causal Inference** and **Reinforcement Learning** for robust AI
-- 🌱 Learning **System Design**, **DevOps**, and **Cloud Architecture**
-- 🎯 **Goal:** Contributing to open source & getting selected for **GSoC 2027**
-- 🧮 Applying **mathematics** to solve real-world engineering problems
-- 💬 Ask me about **React, Node.js, Python, PyTorch, GNNs**
+- 🔬 Researching GNN-based recommendation with causal RL (Pre-Thesis II)
+- 🌍 Active contributor to [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) (40k+ ⭐), [FOSSASIA](https://github.com/fossasia), and [Joplin](https://github.com/laurent22/joplin)
 - 📫 Reach me at **tasfinmahmud1@gmail.com**
-- ⭐ **Star my repos if you find them useful — it means a lot!**
-
-<br clear="both" />
 
 ---
 
-<!-- Tech Stack Section -->
-## 🛠️ Tech Arsenal
+## Open Source Contributions
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🎨 Frontend
-<br>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap" />
-
-</td>
-<td align="center" width="50%">
-
-### ⚙️ Backend
-<br>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java,c,cpp" />
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 🗄️ Database & Cloud
-<br>
-
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres,aws,docker" />
-
-</td>
-<td align="center" width="50%">
-
-### 🔧 Tools & Platforms
-<br>
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,postman" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- GitHub Stats Section -->
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TasfinMahmud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TasfinMahmud&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
-</div>
-
-<div align="center">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TasfinMahmud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8" />
-</div>
-
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TasfinMahmud&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" />
-</div>
-
----
-
-<!-- Open Source & Collaboration -->
-## 🌍 Open Source Contributions
-
-<div align="center">
-
-> *"Talk is cheap. Show me the code."* — Linus Torvalds
-
-</div>
-
-### 🚀 [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) — Active Contributor
-
-Contributing to **Rocket.Chat**, the leading open-source communications platform (40k+ ⭐). Key contributions include:
+### [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) — Active Contributor
 
 | PR | Area | Description |
 |----|------|-------------|
@@ -146,152 +44,48 @@ Contributing to **Rocket.Chat**, the leading open-source communications platform
 | [#40424](https://github.com/RocketChat/Rocket.Chat/pull/40424) | 🐛 Fix | Replace fragile regex in `isRelativeURL` validation |
 | [#40363](https://github.com/RocketChat/Rocket.Chat/pull/40363) | 🐛 Fix | Fix truncation of Livechat transfer comments |
 
-### 🌍 Other Organizations
+### Other Organizations
 
-| Org | PR | Area | Description |
-|-----|----|------|-------------|
-| **FOSSASIA** | [#3441](https://github.com/fossasia/eventyay/pull/3441) | 🐛 Fix | Resolved duplicate imports & bare exceptions in `eventyay` |
-| **Joplin** | In Progress | 🐛 Fix | Investigating React Native UI bug on mobile plugins screen (#15315) |
+| Org | PR | Description |
+|-----|----|-------------|
+| **FOSSASIA** | [#3441](https://github.com/fossasia/eventyay/pull/3441) | Resolved duplicate imports & bare exceptions in `eventyay` |
+| **Joplin** | [#15327](https://github.com/laurent22/joplin/pull/15327) | React Native UI fix for mobile plugins screen |
 
 ---
 
-<!-- Featured Projects Section -->
-## 🚀 Featured Projects
+## Research
+
+### [GNN RecSys Benchmark](https://github.com/TasfinMahmud/gnn-recsys-benchmark)
+
+Benchmarking 5 GNN architectures — **LightGCN**, **GCN**, **GAT**, **NGCF**, **GraphSAGE** — for collaborative filtering on the Open Bandit Dataset. BPR training with Recall@K and NDCG@K evaluation.
+
+`Python` `PyTorch` `PyG` `GNNs` `Causal ML`
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-### 📊 [FinTrack Dashboard](https://github.com/TasfinMahmud/fintrack-dashboard)
-AI-powered financial tracking dashboard with real-time analytics, portfolio management, and spending insights.
-
-`Chart.js` `JavaScript` `CSS3` `Responsive`
-
-[🔗 Live Demo](https://tasfinmahmud.github.io/fintrack-dashboard/) • [📂 Source](https://github.com/TasfinMahmud/fintrack-dashboard)
-
-</td>
-<td width="50%">
-
-### 🧠 [AI Sentiment Analyzer](https://github.com/TasfinMahmud/ai-sentiment-analyzer)
-NLP-powered sentiment analysis tool with emotion detection, keyword extraction, and visual gauges.
-
-`JavaScript` `NLP` `Chart.js` `CSS3`
-
-[🔗 Live Demo](https://tasfinmahmud.github.io/ai-sentiment-analyzer/) • [📂 Source](https://github.com/TasfinMahmud/ai-sentiment-analyzer)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛒 [ShopVibe E-Commerce](https://github.com/TasfinMahmud/ecommerce-platform)
-Full-stack e-commerce platform with product catalog, cart management, search, filtering, and checkout flow.
-
-`JavaScript` `CSS3` `Responsive` `LocalStorage`
-
-[🔗 Live Demo](https://tasfinmahmud.github.io/ecommerce-platform/) • [📂 Source](https://github.com/TasfinMahmud/ecommerce-platform)
-
-</td>
-<td width="50%">
-
-### 🧮 [Simplex Solver](https://github.com/TasfinMahmud/simplex-solver)
-Interactive Simplex Method Tableau Generator for solving linear programming problems step-by-step.
-
-`HTML5` `CSS3` `JavaScript` `Math`
-
-[🔗 Live Demo](https://tasfinmahmud.github.io/simplex-solver/) • [📂 Source](https://github.com/TasfinMahmud/simplex-solver)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 [VibeBot](https://github.com/TasfinMahmud/vibebot)
-AI-powered Discord bot with Google Gemini integration. Provides intelligent Bengali responses 24/7.
-
-`Node.js` `Discord.js` `Gemini API` `AI`
-
-[📂 Source](https://github.com/TasfinMahmud/vibebot)
-
-</td>
-<td width="50%">
-
-### 🌐 [Portfolio Website](https://tasfinmahmud.github.io)
-React portfolio with Framer Motion animations, Three.js visuals, AI chatbot, and glassmorphism design.
-
-`React` `Vite` `Framer Motion` `Three.js`
-
-[🔗 Live Site](https://tasfinmahmud.github.io) • [📂 Source](https://github.com/TasfinMahmud/tasfinmahmud.github.io)
-
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,nodejs,express,python,flask,pytorch,mongodb,firebase,postgres,docker,git,github,linux,vscode&perline=10" />
 
 </div>
 
 ---
 
-<!-- Roadmap Section -->
-## 🎯 2027 Roadmap
+## GitHub Analytics
 
 <div align="center">
-
-| Goal | Status |
-|------|--------|
-| 🌟 Contribute to **5+ open source projects** | 🔄 In Progress |
-| 🔬 Publish **Pre-Thesis II GNN-Bandit Research** | 🔄 In Progress |
-| 🧠 Advance **Causal Inference & RL** research | 🔄 In Progress |
-| 📝 Write **technical blog posts** on dev.to | 📋 Planned |
-| 🏗️ Build **3 production-ready full-stack apps** | ✅ Completed |
-| 🎓 Complete **ML/AI specialization** | 🔄 In Progress |
-| 🏆 Get selected for **Google Summer of Code 2027** | 🎯 Target |
-| 🤝 Attend **tech meetups & hackathons** | 📋 Planned |
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TasfinMahmud&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&ring_color=A855F7" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=TasfinMahmud&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=c9d1d9&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9" />
 </div>
 
 ---
 
-<!-- Activity Graph -->
-## 📈 Contribution Activity
-
 <div align="center">
 
-[![Tasfin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TasfinMahmud&theme=react-dark&hide_border=true&area=true&custom_title=Tasfin's%20Contribution%20Graph&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF)](https://github.com/TasfinMahmud)
+Open to collaborating on **open source**, **GNN research**, or **AI/ML projects**.
 
-</div>
-
----
-
-<!-- Random Dev Quote -->
-## 💭 Dev Quote of the Day
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%2C+solve+the+problem.+Then%2C+write+the+code.&author=John+Johnson)](https://github.com/TasfinMahmud)
-
-</div>
-
----
-
-<!-- Footer -->
-<div align="center">
-
-### 🤝 Let's Connect & Collaborate
-
-<p>
-Open to collaborating on <b>open source</b>, <b>GNN research</b>, or <b>AI/ML projects</b>. Let's build something amazing together!
-</p>
-
-<a href="https://tasfinmahmud.github.io"><img src="https://img.shields.io/badge/Check_Out_My-Portfolio-A855F7?style=for-the-badge&logo=safari&logoColor=white" /></a>
-
-<br><br>
-
-**If you like my projects, consider giving them a ⭐!**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=100&section=footer" width="100%" />
+<a href="https://tasfinmahmud.github.io"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=safari&logoColor=white" /></a>
 
 </div>
