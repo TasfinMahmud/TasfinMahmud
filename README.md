@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,24,30&height=120&section=header" />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2500&pause=999999&color=A855F7&center=true&vCenter=true&repeat=false&width=400&height=45&lines=Tasfin+Mahmud)](https://tasfinmahmud.github.io)
 
 
