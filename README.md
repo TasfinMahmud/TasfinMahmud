@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Tasfin+Mahmud)](https://tasfinmahmud.github.io)
+# Tasfin Mahmud
 
 **CS & Mathematics · BRAC University, Dhaka**
 **AI/ML Researcher · Full-Stack Developer · Open Source Contributor**
