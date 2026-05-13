@@ -76,7 +76,7 @@ Benchmarking 5 GNN architectures — **LightGCN**, **GCN**, **GAT**, **NGCF**, *
 ## GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TasfinMahmud&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&ring_color=A855F7" />
+  <a href="https://github.com/TasfinMahmud"><img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TasfinMahmud&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&ring_color=A855F7" /></a>
   <img width="49%" src="https://streak-stats.demolab.com?user=TasfinMahmud&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=c9d1d9&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9" />
 </div>
 
