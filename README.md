@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=180&section=header&text=Tasfin%20Mahmud&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=MERN%20Developer%20|%20AI%20Fintech%20Researcher%20|%20GSoC%20'27%20Aspirant&descSize=16&descAlignY=52" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=180&section=header&text=Tasfin%20Mahmud&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=CS%20Researcher%20|%20GNN%20%26%20Causal%20ML%20|%20Full-Stack%20Developer%20|%20GSoC%20'27&descSize=16&descAlignY=52" />
 
 <!-- Dynamic typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Building+AI-Powered+Fintech+Applications;Full+Stack+MERN+Developer;Open+Source+Contributor+%7C+GSoC+'27;Shipping+Code+That+Matters;React+%7C+Node.js+%7C+TypeScript+%7C+MongoDB)](https://tasfinmahmud.github.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Tasfin+Mahmud+%7C+GNN+%26+Causal+ML+Researcher;Full+Stack+Developer+%7C+Open+Source+Contributor;Graph+Neural+Networks+%7C+Causal+Inference+%7C+RL;GSoC+2027+Aspirant+%7C+BRAC+University;React+%7C+Node.js+%7C+Python+%7C+PyTorch)](https://tasfinmahmud.github.io)
 
 <!-- Social Badges -->
 <p>
@@ -25,26 +25,28 @@
 ---
 
 <!-- About Me Section -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Tasfin Mahmud
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```js
-const tasfin = {
+const tasfinMahmud = {
     🎓: "B.Sc. Computer Science | Minor: Mathematics",
     🏫: "BRAC University, Dhaka",
-    💼: ["MERN Stack Developer", "AI Fintech Researcher"],
+    💼: ["CS Researcher", "Full-Stack Developer"],
+    🔬: ["Graph Neural Networks", "Causal Inference", "Reinforcement Learning"],
     🎯: "Open Source & GSoC 2027",
-    🧠: ["Web Dev", "Machine Learning", "Fintech", "Math"],
+    🧠: ["GNNs", "Causal ML", "RL", "Web Dev", "Math"],
     ⚡: "I debug with console.log — no shame in the game"
 };
 ```
 
-- 🔭 Currently building **AI-powered fintech applications**
+- 🔭 Currently researching **GNN architectures for recommendation systems** (Pre-Thesis II)
+- 🧩 Working on **Causal Inference** and **Reinforcement Learning** for robust AI
 - 🌱 Learning **System Design**, **DevOps**, and **Cloud Architecture**
 - 🎯 **Goal:** Contributing to open source & getting selected for **GSoC 2027**
 - 🧮 Applying **mathematics** to solve real-world engineering problems
-- 💬 Ask me about **React, Node.js, MongoDB, Express, Python**
+- 💬 Ask me about **React, Node.js, Python, PyTorch, GNNs**
 - 📫 Reach me at **tasfinmahmud1@gmail.com**
 - ⭐ **Star my repos if you find them useful — it means a lot!**
 
@@ -240,6 +242,7 @@ React portfolio with Framer Motion animations, Three.js visuals, AI chatbot, and
 |------|--------|
 | 🌟 Contribute to **5+ open source projects** | 🔄 In Progress |
 | 🔬 Publish **Pre-Thesis II GNN-Bandit Research** | 🔄 In Progress |
+| 🧠 Advance **Causal Inference & RL** research | 🔄 In Progress |
 | 📝 Write **technical blog posts** on dev.to | 📋 Planned |
 | 🏗️ Build **3 production-ready full-stack apps** | ✅ Completed |
 | 🎓 Complete **ML/AI specialization** | 🔄 In Progress |
@@ -278,7 +281,7 @@ React portfolio with Framer Motion animations, Three.js visuals, AI chatbot, and
 ### 🤝 Let's Connect & Collaborate
 
 <p>
-Open to collaborating on <b>open source</b>, <b>fintech</b>, or <b>AI projects</b>. Let's build something amazing together!
+Open to collaborating on <b>open source</b>, <b>GNN research</b>, or <b>AI/ML projects</b>. Let's build something amazing together!
 </p>
 
 <a href="https://tasfinmahmud.github.io"><img src="https://img.shields.io/badge/Check_Out_My-Portfolio-A855F7?style=for-the-badge&logo=safari&logoColor=white" /></a>
