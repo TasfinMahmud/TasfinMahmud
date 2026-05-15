@@ -56,7 +56,7 @@ svg += '  </g>\n'
 
 # Text
 svg += '  <g text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">\n'
-svg += '    <text x="400" y="120" font-size="46" font-weight="bold" fill="#ffffff" filter="drop-shadow(0px 4px 6px rgba(0,0,0,0.5))">Tasfin Mahmud</text>\n'
+svg += '    <text x="400" y="120" font-size="46" font-weight="bold" fill="#ffffff">Tasfin Mahmud</text>\n'
 svg += '    <text x="400" y="160" font-size="16" fill="#A855F7" font-weight="500" letter-spacing="1">AI/ML RESEARCHER • OPEN SOURCE DEVELOPER</text>\n'
 svg += '  </g>\n'
 
