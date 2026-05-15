@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A855F7,100:6366F1&height=150&section=header&text=Tasfin%20Mahmud&fontSize=36&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
-
+<img width="100%" src="banner.svg" alt="Tasfin Mahmud Banner" />
 
 <p>
   <a href="https://tasfinmahmud.github.io"><img src="https://img.shields.io/badge/Portfolio-tasfinmahmud.github.io-A855F7?style=flat-square&logo=google-chrome&logoColor=white" /></a>&nbsp;
