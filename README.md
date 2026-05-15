@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="banner.svg" alt="Tasfin Mahmud Banner" />
+<img width="100%" src="banner.png" alt="Tasfin Mahmud Banner" />
 
 <p>
   <a href="https://tasfinmahmud.github.io"><img src="https://img.shields.io/badge/Portfolio-tasfinmahmud.github.io-A855F7?style=flat-square&logo=google-chrome&logoColor=white" /></a>&nbsp;
