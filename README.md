@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="banner.png" alt="Tasfin Mahmud Banner" />
+<img width="100%" src="banner.svg" alt="Tasfin Mahmud Banner" />
 
 <p>
-  <a href="https://tasfinmahmud.github.io"><img src="https://img.shields.io/badge/Portfolio-tasfinmahmud.github.io-A855F7?style=flat-square&logo=google-chrome&logoColor=white" /></a>&nbsp;
+  <a href="https://tasfinmahmud.github.io"><img src="https://img.shields.io/badge/Portfolio-tasfinmahmud.github.io-38bdf8?style=flat-square&logo=google-chrome&logoColor=white" /></a>&nbsp;
   <a href="https://linkedin.com/in/tasfin-mahmud-737a56329"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="https://x.com/tasfinmahmud1"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>&nbsp;
   <a href="mailto:tasfinmahmud1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -73,8 +73,8 @@ Benchmarking 5 GNN architectures — **LightGCN**, **GCN**, **GAT**, **NGCF**, *
 ## GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/TasfinMahmud"><img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TasfinMahmud&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&ring_color=A855F7" /></a>
-  <img width="49%" src="https://streak-stats.demolab.com?user=TasfinMahmud&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=c9d1d9&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+  <a href="https://github.com/TasfinMahmud"><img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TasfinMahmud&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&ring_color=38bdf8" /></a>
+  <img width="49%" src="https://streak-stats.demolab.com?user=TasfinMahmud&hide_border=true&background=0D1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9" />
 </div>
 
 ---
@@ -83,6 +83,6 @@ Benchmarking 5 GNN architectures — **LightGCN**, **GCN**, **GAT**, **NGCF**, *
 
 Open to collaborating on **open source**, **GNN research**, or **AI/ML projects**.
 
-<a href="https://tasfinmahmud.github.io"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=safari&logoColor=white" /></a>
+<a href="https://tasfinmahmud.github.io"><img src="https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=safari&logoColor=white" /></a>
 
 </div>
