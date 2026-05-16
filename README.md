@@ -15,11 +15,11 @@
 
 ## About
 
-I'm an undergraduate CS researcher at BRAC University with a minor in Mathematics, focused on **Graph Neural Networks**, **Causal Inference**, and **Reinforcement Learning**. My current research investigates GNN architectures for recommendation systems under causal and bandit feedback settings.
+I'm an undergraduate CS researcher at BRAC University with a minor in Mathematics, focused on **Graph Neural Networks** and **Reinforcement Learning**. My current research investigates GNN architectures for recommendation systems.
 
 I also build full-stack applications and actively contribute to open-source projects — working toward **Google Summer of Code 2027**.
 
-- 🔬 Researching GNN-based recommendation with causal RL (Pre-Thesis II)
+- 🔬 Researching GNN-based recommendation
 - 🌍 Active contributor to [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) (40k+ ⭐), [FOSSASIA](https://github.com/fossasia), and [Joplin](https://github.com/laurent22/joplin)
 - 📫 Reach me at **tasfinmahmud1@gmail.com**
 
