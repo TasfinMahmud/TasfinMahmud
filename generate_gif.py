@@ -110,7 +110,7 @@ for frame_idx in range(num_frames):
     # Convert back to RGB for GIF saving
     frames.append(img.convert('RGB'))
 
-frames[0].save('e:/301/TasfinMahmud/banner.gif', 
+frames[0].save('e:/301/TasfinMahmud/banner_v2.gif', 
                save_all=True, 
                append_images=frames[1:], 
                duration=duration, 
