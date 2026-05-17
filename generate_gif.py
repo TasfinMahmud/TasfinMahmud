@@ -4,11 +4,11 @@ from PIL import Image, ImageDraw, ImageFont
 
 width = 800
 height = 250
-num_nodes = 70
-connection_distance = 110
+num_nodes = 45
+connection_distance = 90
 drift_radius = 15
-num_frames = 60
-duration = 40  # 40ms per frame -> 25 FPS -> 2.4s loop
+num_frames = 90
+duration = 65  # 65ms per frame -> ~5.85s loop
 
 bg_color = (13, 17, 23)        # #0D1117
 accent_color = (14, 165, 233)  # #0EA5E9
