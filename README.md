@@ -52,11 +52,11 @@ I also build full-stack applications and actively contribute to open-source proj
 
 ## Research
 
-### [GNN RecSys Benchmark](https://github.com/TasfinMahmud/gnn-recsys-benchmark)
+### [GNN Collaborative Filtering Benchmark](https://github.com/TasfinMahmud/gnn-collaborative-filtering)
 
-Benchmarking 5 GNN architectures — **LightGCN**, **GCN**, **GAT**, **NGCF**, **GraphSAGE** — for collaborative filtering on the Open Bandit Dataset. BPR training with Recall@K and NDCG@K evaluation.
+Highly optimized PyTorch Geometric benchmark for Graph Neural Network (GNN) based Recommender Systems. Features state-of-the-art Collaborative Filtering using **LightGCN** and BPR loss.
 
-`Python` `PyTorch` `PyG` `GNNs` `Causal ML`
+`Python` `PyTorch` `PyG` `GNNs` `RecSys`
 
 ---
 
