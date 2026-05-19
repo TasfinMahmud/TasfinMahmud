@@ -31,6 +31,7 @@ I also build full-stack applications and actively contribute to open-source proj
 
 | PR | Area | Description |
 |----|------|-------------|
+| [#40617](https://github.com/RocketChat/Rocket.Chat/pull/40617) | 🐛 Fix | `useMemo` side-effect in RoomsTable |
 | [#40449](https://github.com/RocketChat/Rocket.Chat/pull/40449) | 🔒 Security | Restored Issue Tracker Links with URL scheme validation |
 | [#40451](https://github.com/RocketChat/Rocket.Chat/pull/40451) | 🧹 Refactor | Simplified `getNodeIconType` utility with direct returns |
 | [#40426](https://github.com/RocketChat/Rocket.Chat/pull/40426) | ✨ Feature | Nested markdown list support in message parser |
