@@ -15,7 +15,7 @@
 
 ## About
 
-I'm an undergraduate CS researcher at BRAC University with a minor in Mathematics, focused on **Graph Neural Networks** and **Reinforcement Learning**. My current research investigates GNN architectures for recommendation systems.
+I'm an undergraduate CS researcher at BRAC University with a minor in Mathematics, focused on **Graph Neural Networks** and **Causal Reinforcement Learning**. My current research investigates GNN architectures for recommendation systems.
 
 I also build full-stack applications and actively contribute to open-source projects — working toward **Google Summer of Code 2027**.
 
