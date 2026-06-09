@@ -87,3 +87,4 @@ Open to collaborating on **open source**, **GNN research**, or **AI/ML projects*
 <a href="https://tasfinmahmud.github.io"><img src="https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=safari&logoColor=white" /></a>
 
 </div>
+<!-- daily green square -->
