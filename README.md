@@ -20,7 +20,7 @@ I'm an undergraduate CS researcher at BRAC University with a minor in Mathematic
 I also build full-stack applications and actively contribute to open-source projects — working toward **Google Summer of Code 2027**.
 
 - 🔬 Researching GNN-based recommendation
-- 🌍 Active contributor to [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) (40k+ ⭐), [FOSSASIA](https://github.com/fossasia), and [Joplin](https://github.com/laurent22/joplin)
+- 🔭 Active contributor to [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) (40k+ ⭐️) and [py-why](https://github.com/py-why/dowhy)
 - 📫 Reach me at **tasfinmahmud1@gmail.com**
 
 ---
@@ -46,8 +46,7 @@ I also build full-stack applications and actively contribute to open-source proj
 
 | Org | PR | Description |
 |-----|----|-------------|
-| **FOSSASIA** | [#3441](https://github.com/fossasia/eventyay/pull/3441) | Resolved duplicate imports & bare exceptions in `eventyay` |
-| **Joplin** | [#15327](https://github.com/laurent22/joplin/pull/15327) | React Native UI fix for mobile plugins screen |
+| **py-why** | [#1589](https://github.com/py-why/dowhy/pull/1589) | Added descriptive error boundary for out-of-bounds interventions in `dowhy` |
 
 ---
 
