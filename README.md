@@ -46,6 +46,7 @@ I also build full-stack applications and actively contribute to open-source proj
 
 | Org | PR | Description |
 |-----|----|-------------|
+| **py-why** | [#1589](https://github.com/py-why/dowhy/pull/1589) | Added descriptive error boundary for out-of-bounds interventions in `dowhy` |
 | **py-why** | [#1563](https://github.com/py-why/dowhy/pull/1563) | Fix distance metric parameters in `NearestNeighbors` estimator |
 | **py-why** | [#1546](https://github.com/py-why/dowhy/pull/1546) | Fix data subset refuter index misalignment |
 
