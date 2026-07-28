@@ -17,7 +17,7 @@
 
 I'm an undergraduate CS researcher at BRAC University with a minor in Mathematics, focused on **Graph Neural Networks** and **Causal Reinforcement Learning**. My current research investigates GNN architectures for recommendation systems.
 
-I also build full-stack applications and actively contribute to open-source projects — working toward **Google Summer of Code 2027**.
+I also build full-stack applications and actively contribute to open-source projects working toward **Google Summer of Code 2027**.
 
 - 🔬 Researching GNN-based recommendation
 - 🔭 Active contributor to [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) (40k+ ⭐️) and [py-why](https://github.com/py-why/dowhy)
