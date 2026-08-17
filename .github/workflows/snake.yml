@@ -15,7 +15,20 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Generate Snake
+      - name: Generate Snake (attempt 1)
+        id: generate_snake_attempt_1
+        continue-on-error: true
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: TasfinMahmud
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Snake (retry)
+        if: steps.generate_snake_attempt_1.outcome == 'failure'
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: TasfinMahmud
